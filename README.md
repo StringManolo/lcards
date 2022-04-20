@@ -21,7 +21,7 @@ Install node packages
 - git  
 Upload the project to github
 - gh  
-Create a respository
+Create a github repository
 - vim  
 Terminal text editor
 - emmet Vim Plugin  
