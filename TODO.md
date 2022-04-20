@@ -1,0 +1,2 @@
+- Utilizar cache api para que funcione 100% offline.
+- Generar apk con icono que carge la url?
